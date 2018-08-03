@@ -1,0 +1,15 @@
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\bin\Debug\OperateConfigSql.exe.config
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\bin\Debug\OperateConfigSql.exe
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\bin\Debug\OperateConfigSql.pdb
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\bin\Debug\MySql.Data.dll
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.csprojAssemblyReference.cache
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.Form1.resources
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.Properties.Resources.resources
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.csproj.GenerateResource.cache
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.csproj.CoreCompileInputs.cache
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.csproj.CopyComplete
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.exe
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.pdb
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.view.addphone.resources
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.view.editphone.resources
+E:\Fdata\C#study\OperateConfigSql\OperateConfigSql\obj\Debug\OperateConfigSql.view.Processbar.resources

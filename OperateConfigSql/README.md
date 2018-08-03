@@ -1,0 +1,1 @@
+These files is about C# how to use app.config of winform application to operate the mysql and add the function of export excel. In addition,I have encapsulated these operations into functions and can be used directly. 
